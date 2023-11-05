@@ -1,0 +1,37 @@
+nav {
+    background-color: #f18273 !important;
+}
+
+nav a {
+    color: #f4f5de !important;
+    font-weight: medium !important;
+}
+
+nav .social-icon {
+    font-size: x-large !important;
+    color: #f4f5de;
+}
+
+.navbar-toggler span {
+    background-color: white;
+    display: block;
+    width: 30px;
+    height: 2px;
+    margin: 6px auto;
+    background: #fff;
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0;
+    border: none;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:hover {
+    background-color: #f16d5b;
+}

@@ -1,0 +1,13 @@
+#capaSite {
+    margin-top: 80px;
+}
+
+.btn {
+    background-color: #f18273 !important;
+    color: #f4f5de;
+}
+
+.btn:hover {
+    background-color: #eb6958 !important;
+    color: #f4f5de;
+}

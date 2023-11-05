@@ -1,0 +1,39 @@
+form {
+    background-color: #c4ceb0;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.texto-contato {
+    width: 50%;
+}
+
+#contato {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #f2bd76;
+    /* background-color: #f2bd76; */
+}
+
+form i {
+    color: #f4f5de;
+}
+
+.card-contato {
+    height: 70px;
+    background-color: #c4ceb0;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card-contato h6 {
+    font-weight: bold;
+}
+
+#cardContatoEmail {
+    width: 55%;
+}
+
+#cardContatoTelefone {
+    width: 35%;
+}
