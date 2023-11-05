@@ -37,3 +37,7 @@ form i {
 #cardContatoTelefone {
     width: 35%;
 }
+
+#mensagemInput {
+    resize: none;
+}
