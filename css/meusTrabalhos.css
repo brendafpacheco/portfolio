@@ -1,0 +1,20 @@
+#meusTrabalhos {
+    padding-top: 60px;
+}
+
+#meusTrabalhos .nav-link {
+    color: #f2bd76;
+}
+
+.div-banner {
+    width: 30%;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+}
+
+#tab4 .card-body, #tab5 .card-body {
+    padding: 30px;
+}
