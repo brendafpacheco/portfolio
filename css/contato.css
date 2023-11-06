@@ -12,7 +12,6 @@ form {
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #f2bd76;
-    /* background-color: #f2bd76; */
 }
 
 form i {
@@ -20,7 +19,8 @@ form i {
 }
 
 .card-contato {
-    height: 70px;
+    height: 20%;
+    width: 60%;
     background-color: #c4ceb0;
     border-radius: 5px;
     text-align: center;
@@ -30,13 +30,22 @@ form i {
     font-weight: bold;
 }
 
-#cardContatoEmail {
-    width: 55%;
-}
+@media (max-width: 1300px) {
+    #cardContatoEmail, #cardContatoTelefone {
+        width: 90%;
+    }
+    #cardContatoEmail p {
+        font-size: 14px;
+    }
+  }
 
-#cardContatoTelefone {
-    width: 35%;
-}
+@media (max-width: 778px) {
+    #cardContatoEmail p {
+        word-wrap: break-word;
+        padding: 2px;
+    }
+  }
+
 
 #mensagemInput {
     resize: none;
