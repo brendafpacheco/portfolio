@@ -1,0 +1,16 @@
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.whatsapp-button a {
+    background-color: #25D366 !important;
+    border: none;
+}
+
+.bxl-whatsapp {
+    color: #ffff;
+    font-size: 38px;
+}
